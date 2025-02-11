@@ -1,4 +1,4 @@
-print("Hello World")
+print("Welcome!")
 
 i = 1
 while i < 11:
